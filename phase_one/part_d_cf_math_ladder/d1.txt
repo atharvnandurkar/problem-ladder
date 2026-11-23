@@ -1,0 +1,18 @@
+You asked for Codeforces specifically. Here is a separate ladder to develop contest-style thinking.
+
+Do not worry about your rating initially. Focus on solving the problems without editorial assistance.
+D1. Beginner implementation and mathematical observations
+Start here
+
+#	Problem	Codeforces ID
+1	Watermelon	4A
+2	Team	231A
+3	Domino Piling	50A
+4	Calculating Function	486A
+5	Bit++	282A
+6	Sum of Round Numbers	1352A
+7	Divisibility Problem	1328A
+8	Odd Divisor	1475A
+9	Almost Prime	26A
+10	T-primes	230B
+

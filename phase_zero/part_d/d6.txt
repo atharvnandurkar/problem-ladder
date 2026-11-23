@@ -1,0 +1,21 @@
+D6. Priority queue
+Concepts
+- Max heap.
+- Min heap.
+- priority_queue.
+- push().
+- pop().
+- top().
+- Custom comparator.
+- Heap complexity.
+- Pair-based priority queues.
+Practice ladder
+Easy
+- Last Stone Weight — LC 1046.
+- Relative Ranks — LC 506.
+- Kth Largest Element in a Stream — LC 703.
+Medium
+- Kth Largest Element in an Array — LC 215.
+- Top K Frequent Elements — LC 347.
+- K Closest Points to Origin — LC 973.
+- Sort Characters By Frequency — LC 451.

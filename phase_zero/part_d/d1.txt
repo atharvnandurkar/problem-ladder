@@ -1,0 +1,40 @@
+PART D — C++ STL (STANDARD TEMPLATE LIBRARY)
+Extremely important
+This is arguably the most important practical part of Phase 0.
+
+You will use STL throughout your DSA journey. You should not have to search Google every time you need a priority queue, hash map or sorting comparator.
+D1. Vector
+Concepts
+- Declaration and initialization.
+- push_back().
+- pop_back().
+- size().
+- capacity().
+- empty().
+- clear().
+- front().
+- back().
+- at().
+- begin() and end().
+- Iteration.
+- 2D vectors.
+- Vector of pairs.
+- Passing vectors to functions.
+- Copying vs referencing vectors.
+- Sorting vectors.
+Practice ladder
+Easy
+#	Problem	Platform
+1	Running Sum of 1D Array	LC 1480
+2	Concatenation of Array	LC 1929
+3	Build Array from Permutation	LC 1920
+4	Shuffle the Array	LC 1470
+5	Richest Customer Wealth	LC 1672
+6	Find Numbers with Even Number of Digits	LC 1295
+
+Medium
+#	Problem	Platform
+7	Rotate Array	LC 189
+8	Merge Sorted Array	LC 88
+9	Product of Array Except Self	LC 238
+10	Spiral Matrix	LC 54

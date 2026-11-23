@@ -1,0 +1,30 @@
+C5. Advanced bit manipulation
+Master:
+- Brian Kernighan's algorithm.
+- Count set bits in O(number of set bits).
+- Isolate the rightmost set bit.
+- Clear the rightmost set bit.
+- Enumerate all submasks.
+- Bitwise prefix techniques.
+- XOR basis.
+- Maximum XOR using binary Trie.
+- Bitmask DP.
+- SOS DP introduction.
+Implementation challenges:
+1. Implement countSetBits(n).
+2. Implement isPowerOfTwo(n).
+3. Implement getRightmostSetBit(n).
+4. Implement clearRightmostSetBit(n).
+5. Generate every subset of an array using bitmasks.
+6. Generate every submask of a mask.
+7. Calculate XOR of every subarray using prefix XOR.
+
+CSES problems
+#	Problem  	Difficulty
+1	Bit Strings 	Easy
+2	Gray Code	Easy–Medium
+3	Josephus Problem I 	Medium
+4	Apple Division	Medium
+5	SOS DP	Advanced extension
+
+CSES problem classifications are approximate learning levels, not official difficulty labels.

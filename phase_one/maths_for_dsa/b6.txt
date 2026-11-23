@@ -1,0 +1,36 @@
+B6. Mathematical reasoning and counting principles
+Concepts:
+- Mathematical induction.
+- Pigeonhole principle.
+- Inclusion-exclusion principle.
+- Basic probability.
+- Logarithms.
+- Mathematical observations.
+- Counting arrangements.
+- Counting distinct possibilities.
+Practice ladder
+Easy
+#	Problem	Platform
+1	Two Knights	CSES
+2	Trailing Zeros	CSES
+3	Number Spiral	CSES
+4	Coin Piles	CSES
+5	Two Sets	CSES
+
+Medium
+#	Problem	Platform
+6	Two Sets II	CSES
+7	Apple Division	CSES
+8	Josephus Problem I	CSES
+9	Distributing Candies	CSES
+
+Hard / Advanced
+#	Problem	Platform
+10	Josephus Problem II	CSES
+11	Counting Divisors	CSES
+12	Prime Multiples	CSES
+13	Bracket Sequences I	CSES
+
+CSES Mathematics collection: Open all CSES problems
+
+These problems train you to derive formulas instead of blindly implementing loops.

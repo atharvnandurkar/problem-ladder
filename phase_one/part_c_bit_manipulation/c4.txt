@@ -1,0 +1,39 @@
+C4. Bit masking and subset generation
+This is the bridge between ordinary bit manipulation and advanced DP.
+
+Concepts:
+- Bit masks.
+- Representing sets using integers.
+- Enumerating all subsets.
+- Checking membership.
+- Adding and removing elements from a mask.
+- Enumerating submasks.
+- Bitmask complexity.
+- Bitmask DP introduction.
+For an array of size \(n\), the number of subsets is:
+2^n
+
+You must understand how each integer from 0 to \(2^n-1\) represents a subset.
+
+Problem ladder
+Easy
+#	Problem	Platform
+1	Subsets	LeetCode 78
+2	Letter Case Permutation	LeetCode 784
+3	Binary Watch	LeetCode 401
+
+Medium
+#	Problem	Platform
+4	Subsets II	LeetCode 90
+5	Maximum Product of Word Lengths	LeetCode 318
+6	Maximum Length of a Concatenated String with Unique Characters	LeetCode 1239
+7	Matchsticks to Square	LeetCode 473
+
+Hard
+#	Problem	Platform
+8	Can I Win	LeetCode 464
+9	Smallest Sufficient Team	LeetCode 1125
+10	Maximum Students Taking Exam	LeetCode 1349
+11	Minimum Number of Work Sessions to Finish the Tasks	LeetCode 1986
+
+These advanced problems will later be revisited during Dynamic Programming.

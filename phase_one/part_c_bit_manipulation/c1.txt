@@ -1,0 +1,37 @@
+High-value for OA and competitive programming
+This topic is extremely important because bit manipulation appears in:
+- Google and Microsoft-style coding interviews.
+- Competitive programming.
+- Optimization problems.
+- Subset generation.
+- Dynamic programming with bitmasks.
+- XOR-based array problems.
+You must become comfortable reading binary representations and manipulating individual bits.
+
+
+C1. Binary number system
+Concepts:
+- Binary representation.
+- Decimal to binary.
+- Binary to decimal.
+- Binary place values.
+- Signed and unsigned integers.
+- Two's complement.
+- Integer overflow.
+- 32-bit and 64-bit integers.
+
+Practice ladder
+Easy
+#	Problem	Platform
+1	Convert Decimal to Binary	Independent
+2	Convert Binary to Decimal	Independent
+3	Reverse Bits	LeetCode 190
+4	Number of 1 Bits	LeetCode 191
+5	Binary Gap	LeetCode 868
+6	Add Binary	LeetCode 67
+
+Medium
+#	Problem	Platform
+7	Minimum Flips to Make a OR b Equal to c	LeetCode 1318
+8	Convert a Number to Hexadecimal	LeetCode 405
+9	Number Complement	LeetCode 476

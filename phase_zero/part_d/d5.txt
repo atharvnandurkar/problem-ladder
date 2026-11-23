@@ -1,0 +1,30 @@
+D5. Map and unordered_map
+Concepts
+- map.
+- unordered_map.
+- Key-value pairs.
+- Insertion.
+- Deletion.
+- Searching.
+- Frequency counting.
+- Iterating through maps.
+- Custom keys.
+- Hashing basics.
+- Ordered vs unordered maps.
+- Average and worst-case complexity.
+Practice ladder
+Easy
+#	Problem	Platform
+1	Two Sum	LC 1
+2	Contains Duplicate	LC 217
+3	Valid Anagram	LC 242
+4	Ransom Note	LC 383
+5	First Unique Character in a String	LC 387
+6	Majority Element	LC 169
+
+Medium
+#	Problem	Platform
+7	Group Anagrams	LC 49
+8	Top K Frequent Elements	LC 347
+9	Subarray Sum Equals K	LC 560
+10	Longest Consecutive Sequence	LC 128

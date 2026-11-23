@@ -1,0 +1,40 @@
+B3. Prime numbers, factors and sieve algorithms
+Concepts:
+- Prime and composite numbers.
+- Prime checking using square root.
+- Factors in pairs.
+- Prime factorization.
+- Sieve of Eratosthenes.
+- Optimized sieve.
+- Smallest prime factor (SPF).
+- Segmented sieve.
+- Prime counting.
+- Divisor count and divisor sum.
+Problem ladder
+Easy
+#	Problem	Platform
+1	Check for Prime Number	Striver
+2	Print All Divisors	Striver
+3	Count Primes	LeetCode 204
+4	Prime Number of Set Bits in Binary Representation	LeetCode 762
+
+Medium
+#	Problem	Platform
+5	Closest Prime Numbers in Range	LeetCode 2523
+6	Count Primes using an optimized sieve	Independent implementation
+7	Find all prime factors of a number	Independent implementation
+8	Build an SPF sieve up to N	Independent implementation
+
+Hard / Advanced
+#	Problem	Platform
+9	Count Primes in Ranges using segmented sieve	Independent implementation
+10	Prime Multiples	CSES
+11	Counting Divisors	CSES
+12	Divisor Analysis	CSES
+
+Official CSES practice:
+
+- CSES Problem Set — Mathematics section::  https://cses.fi/problemset/?utm_source=chatgpt.com
+
+Important: Sieve of Eratosthenes is a must-implement algorithm. Do not just solve Count Primes and move on.
+

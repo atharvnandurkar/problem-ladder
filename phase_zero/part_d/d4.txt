@@ -1,0 +1,28 @@
+D4. Set and multiset
+Concepts
+- set.
+- multiset.
+- Unique elements.
+- Sorted storage.
+- insert().
+- erase().
+- find().
+- count().
+- lower_bound().
+- upper_bound().
+- Iterators.
+- Ordered operations.
+Practice exercises
+1. Insert elements into a set.
+2. Remove duplicates from an array using a set.
+3. Find whether an element exists.
+4. Find the smallest and largest elements.
+5. Count occurrences using a multiset.
+6. Find the next greater element using upper_bound().
+7. Find the first element greater than or equal to a target using lower_bound().
+Problem ladder
+- Contains Duplicate — LC 217.
+- Intersection of Two Arrays — LC 349.
+- Intersection of Two Arrays II — LC 350.
+- Fair Candy Swap — LC 888.
+- My Calendar I — LC 729 (advanced preview).

@@ -1,0 +1,34 @@
+PART C — RECURSION FOUNDATIONS
+This will prepare you for the dedicated recursion and backtracking phase later.
+C1. Recursion basics
+Concepts
+- Definition of recursion.
+- Base condition.
+- Recursive call.
+- Call stack.
+- Stack overflow.
+- Recursion tree.
+- Returning from recursion.
+- Multiple recursive calls.
+- Recursion vs iteration.
+Practice ladder
+Easy
+#	Exercise	Platform
+1	Print numbers from 1 to N	Striver
+2	Print numbers from N to 1	Striver
+3	Sum of first N numbers	Striver
+4	Factorial using recursion	Striver
+5	Reverse an array using recursion	Striver
+6	Check palindrome using recursion	Striver
+7	Fibonacci using recursion	Striver
+8	Calculate power recursively	Independent
+
+Medium
+#	Problem	Platform
+9	Pow(x, n)	LeetCode 50
+10	Fibonacci Number	LeetCode 509
+11	Reverse String recursively	Independent
+12	Generate all binary strings of length N	Independent
+13	Generate all subsets	LeetCode 78 — introductory preview
+
+Mastery checkpoint: You must be able to trace recursive calls on paper and explain the call stack.

@@ -1,0 +1,41 @@
+A2. Conditional statements and loops
+Concepts
+- if, else, else if.
+- Nested conditions.
+- switch.
+- for loop.
+- while loop.
+- do-while.
+- Nested loops.
+- break and continue.
+- Infinite loops.
+- Loop control variables.
+- Loop tracing.
+Practice ladder
+Easy
+#	Problem	Platform
+1	Sum of first N natural numbers	Striver
+2	Sum of numbers from 1 to N	Independent
+3	Print multiplication table	Independent
+4	Count digits	Striver
+5	Reverse a number	Striver
+6	Palindrome number	Striver
+7	Armstrong number	Striver
+8	Factorial of a number	Striver
+9	Check prime number	Striver
+10	Print all divisors	Striver
+
+Medium
+#	Problem	Platform
+11	Sum of all divisors from 1 to N	Striver
+12	GCD of two numbers	Striver
+13	LCM of two numbers	Independent
+14	Fibonacci series	Striver
+15	Check whether a number is perfect	Independent
+
+Additional Codeforces practice
+- Watermelon — 4A: https://codeforces.com/problemset/problem/4/A?utm_source=chatgpt.com
+- Domino Piling — 50A: https://codeforces.com/problemset/problem/50/A?utm_source=chatgpt.com
+- Calculating Function — 486A:  https://codeforces.com/problemset/problem/486/A?utm_source=chatgpt.com
+- Sum of Round Numbers — 1352A:   https://codeforces.com/problemset/problem/1352/A?utm_source=chatgpt.com
+

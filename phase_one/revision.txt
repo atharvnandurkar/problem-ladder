@@ -1,0 +1,69 @@
+PART G — THE RULES THAT WILL MAKE THIS TRAINING WORK
+A problem list is useless without a disciplined solving system.
+
+I want you to follow this protocol for every single problem.
+1. Your problem-solving time limits
+Difficulty	First attempt	Target
+Easy	15–20 min	Solve independently
+Medium	30–40 min	Derive optimized approach
+Hard	60–90 min	Develop advanced reasoning
+
+If you cannot solve a problem:
+1. Don't immediately open the editorial.
+2. Identify exactly where you are stuck.
+3. Try another approach.
+4. Take a small hint if necessary.
+5. Study the solution only after making a genuine attempt.
+6. Close the solution and implement it yourself.
+7. Re-solve it after 2–3 days.
+2. Maintain a mistake notebook
+For every failed problem, record:
+What to record	Example
+Problem	Single Number II
+Pattern	Bit manipulation
+Mistake	Didn't understand bit counts modulo 3
+Correct observation	Every repeated number contributes three times
+Complexity	O(n) time, O(1) space
+Revision	2 days, 7 days, 21 days
+
+3. Your mastery criteria
+Do not move to the next topic merely because you have completed its problems.
+
+You must be able to:
+- Explain the concept without notes.
+- Implement the algorithm from scratch.
+- Explain why the algorithm works.
+- Analyze time and space complexity.
+- Solve unseen Easy problems confidently.
+- Solve representative Medium problems independently.
+- Attempt advanced problems using the same concepts.
+- Recognize when multiple concepts are combined.
+
+My final instructions
+I want you to remember one thing:
+
+Phase 1 is not about solving 100 random mathematics problems. It is about developing the ability to reason mathematically about algorithms.
+
+Your progression should be:
+1. Complexity analysis
+   
+   Learn to predict algorithm performance.
+2. Mathematics
+   
+   Learn to discover mathematical observations.
+3. Bit manipulation
+   
+   Learn to work at the binary level and optimize operations.
+4. Competitive practice
+   
+   Apply all three under time pressure.
+
+One more thing: don't mistake the advanced section for a requirement to finish every Hard problem before moving forward. 
+For example, advanced XOR Trie problems belong naturally to your future Trie phase, and bitmask DP belongs naturally to your future DP phase. 
+Revisit them there.
+
+
+
+Your immediate assignment: Start with A1 — Understanding Algorithms and Complexity. 
+Don't touch advanced mathematics or bitmask DP yet.
+

@@ -1,0 +1,764 @@
+omplete DSA syllabus — beginner to advanced
+This is the master checklist. Follow the order. Do not randomly jump between topics.
+PHASE 0 — Programming foundations (absolute beginner)
+Foundation
+ Do not skip
+
+
+Before DSA, you must be comfortable writing programs without depending on tutorials.
+0.1 C++ fundamentals
+- [ ] Variables and data types
+- [ ] Operators and expressions
+- [ ] Input/output (cin, cout)
+- [ ] Conditional statements (if, else, switch)
+- [ ] Loops (for, while, do-while)
+- [ ] Nested loops
+- [ ] Functions and return values
+- [ ] Function parameters
+- [ ] Pass by value vs pass by reference
+- [ ] Pointers
+- [ ] References
+- [ ] Arrays
+- [ ] Strings
+- [ ] Multidimensional arrays
+- [ ] Structures (struct)
+- [ ] Classes and objects (basic understanding)
+- [ ] Recursion fundamentals
+- [ ] Scope and lifetime of variables
+- [ ] Static variables
+- [ ] Dynamic memory allocation
+- [ ] Stack vs heap memory
+- [ ] Basic debugging
+0.2 C++ STL (Standard Template Library)
+This is extremely important for competitive programming and interviews.
+- [ ] vector
+- [ ] pair
+- [ ] tuple
+- [ ] string
+- [ ] array
+- [ ] list
+- [ ] deque
+- [ ] stack
+- [ ] queue
+- [ ] priority_queue
+- [ ] set
+- [ ] multiset
+- [ ] unordered_set
+- [ ] map
+- [ ] multimap
+- [ ] unordered_map
+- [ ] Iterators
+- [ ] Range-based loops
+- [ ] Custom comparators
+- [ ] Lambda functions
+- [ ] sort()
+- [ ] stable_sort()
+- [ ] reverse()
+- [ ] binary_search()
+- [ ] lower_bound()
+- [ ] upper_bound()
+- [ ] min_element()
+- [ ] max_element()
+- [ ] accumulate()
+- [ ] count()
+- [ ] find()
+- [ ] next_permutation()
+- [ ] __builtin_popcount()
+- [ ] __builtin_ctz()
+Goal: You should be able to implement basic programs using C++ without watching tutorials.
+
+
+
+PHASE 1 — Algorithm analysis and mathematical foundations
+Essential
+1.1 Time and space complexity
+- [ ] What is an algorithm?
+- [ ] Time complexity
+- [ ] Space complexity
+- [ ] Big O notation
+- [ ] Big Omega notation
+- [ ] Big Theta notation
+- [ ] Best-case complexity
+- [ ] Average-case complexity
+- [ ] Worst-case complexity
+- [ ] Constant complexity — O(1)
+- [ ] Logarithmic complexity — O(log n)
+- [ ] Linear complexity — O(n)
+- [ ] Linearithmic complexity — O(n log n)
+- [ ] Quadratic complexity — O(n²)
+- [ ] Cubic complexity — O(n³)
+- [ ] Exponential complexity — O(2ⁿ)
+- [ ] Factorial complexity — O(n!)
+- [ ] Amortized analysis
+- [ ] Complexity of nested loops
+- [ ] Complexity of recursive functions
+- [ ] Recurrence relations
+- [ ] Recursion tree method
+- [ ] Master theorem
+1.2 Mathematics for DSA
+- [ ] Basic arithmetic
+- [ ] Divisibility
+- [ ] Prime numbers
+- [ ] Factors and multiples
+- [ ] GCD and LCM
+- [ ] Euclidean algorithm
+- [ ] Sieve of Eratosthenes
+- [ ] Segmented sieve
+- [ ] Modular arithmetic
+- [ ] Modular exponentiation
+- [ ] Modular inverse
+- [ ] Fast exponentiation
+- [ ] Combinatorics
+- [ ] Permutations and combinations
+- [ ] Factorials
+- [ ] Pascal's triangle
+- [ ] Binomial coefficients
+- [ ] Basic probability
+- [ ] Pigeonhole principle
+- [ ] Inclusion-exclusion principle
+- [ ] Mathematical induction
+- [ ] Logarithms
+1.3 Bit manipulation
+- [ ] Binary number system
+- [ ] Decimal to binary conversion
+- [ ] Binary to decimal conversion
+- [ ] AND, OR, XOR, NOT
+- [ ] Left shift and right shift
+- [ ] Check whether a number is odd/even
+- [ ] Check/set/clear/toggle a bit
+- [ ] Count set bits
+- [ ] Power of two
+- [ ] Isolate the rightmost set bit
+- [ ] XOR properties
+- [ ] Find the unique element
+- [ ] Bit masking
+- [ ] Bitmask enumeration
+- [ ] Subset generation using bits
+- [ ] Bitmask DP
+- [ ] Brian Kernighan's algorithm
+
+
+
+PHASE 2 — Arrays and basic problem-solving patterns
+Highest priority
+2.1 Array fundamentals
+- [ ] Array traversal
+- [ ] Array insertion and deletion
+- [ ] Array searching
+- [ ] Array updating
+- [ ] Minimum and maximum
+- [ ] Second-largest element
+- [ ] Reverse an array
+- [ ] Rotate an array
+- [ ] Move zeros
+- [ ] Remove duplicates
+- [ ] Frequency counting
+- [ ] Subarrays
+- [ ] Subsequences
+- [ ] Kadane's algorithm
+- [ ] Maximum subarray sum
+- [ ] Majority element
+- [ ] Missing and repeating numbers
+- [ ] Merge two sorted arrays
+- [ ] Rearrangement problems
+- [ ] Cyclic sort pattern
+- [ ] Dutch National Flag algorithm
+2.2 Prefix sums and difference arrays
+- [ ] Prefix sum
+- [ ] Suffix sum
+- [ ] Range sum queries
+- [ ] Prefix XOR
+- [ ] 2D prefix sums
+- [ ] Difference arrays
+- [ ] Range update queries
+- [ ] Subarray sum equals K
+- [ ] Prefix sum with hashing
+- [ ] Prefix/suffix product
+2.3 Two pointers
+- [ ] Opposite-direction pointers
+- [ ] Same-direction pointers
+- [ ] Fast and slow pointers
+- [ ] Pair sum problems
+- [ ] Three-sum
+- [ ] Four-sum
+- [ ] Container with most water
+- [ ] Trapping rain water
+- [ ] Remove duplicates in-place
+- [ ] Merge sorted arrays
+- [ ] Partitioning problems
+2.4 Sliding window
+- [ ] Fixed-size sliding window
+- [ ] Variable-size sliding window
+- [ ] Maximum sum subarray of size K
+- [ ] Longest substring without repeating characters
+- [ ] Minimum window substring
+- [ ] Longest substring with at most K distinct characters
+- [ ] Longest repeating character replacement
+- [ ] Count subarrays satisfying conditions
+- [ ] Sliding window with frequency maps
+- [ ] Sliding window with monotonic deque
+2.5 Hashing
+- [ ] Hash maps
+- [ ] Hash sets
+- [ ] Frequency maps
+- [ ] Collision basics
+- [ ] Custom hashing
+- [ ] Two Sum
+- [ ] Group anagrams
+- [ ] Longest consecutive sequence
+- [ ] Subarray sum equals K
+- [ ] Distinct elements in a window
+- [ ] Hashing with prefix sums
+
+
+
+PHASE 3 — Searching and sorting
+3.1 Searching
+- [ ] Linear search
+- [ ] Binary search
+- [ ] Binary search on sorted arrays
+- [ ] First and last occurrence
+- [ ] Lower bound and upper bound
+- [ ] Search insert position
+- [ ] Search in rotated sorted array
+- [ ] Find minimum in rotated sorted array
+- [ ] Find peak element
+- [ ] Search in 2D matrix
+- [ ] Binary search on answer
+- [ ] Search on monotonic functions
+- [ ] Minimum feasible capacity problems
+- [ ] Aggressive Cows
+- [ ] Allocate Books
+- [ ] Split Array Largest Sum
+- [ ] Koko Eating Bananas
+3.2 Sorting algorithms
+- [ ] Bubble sort
+- [ ] Selection sort
+- [ ] Insertion sort
+- [ ] Merge sort
+- [ ] Quick sort
+- [ ] Heap sort
+- [ ] Counting sort
+- [ ] Radix sort
+- [ ] Bucket sort
+- [ ] Stable vs unstable sorting
+- [ ] In-place vs out-of-place sorting
+- [ ] Custom sorting
+- [ ] Comparator-based sorting
+- [ ] Sorting with multiple conditions
+- [ ] Inversion count using merge sort
+
+
+
+PHASE 4 — Recursion and backtracking
+4.1 Recursion
+- [ ] What is recursion?
+- [ ] Base cases
+- [ ] Recursive calls
+- [ ] Recursion tree
+- [ ] Call stack
+- [ ] Direct recursion
+- [ ] Indirect recursion
+- [ ] Tail recursion
+- [ ] Multiple recursion
+- [ ] Recursion on arrays
+- [ ] Recursion on strings
+- [ ] Recursion on subsequences
+- [ ] Recursion on subsets
+- [ ] Recursion complexity analysis
+- [ ] Memoization introduction
+4.2 Backtracking
+- [ ] What is backtracking?
+- [ ] Choose, explore, undo
+- [ ] Subsets generation
+- [ ] Subsequences generation
+- [ ] Permutations
+- [ ] Combination Sum
+- [ ] Combination Sum II
+- [ ] Palindrome partitioning
+- [ ] Generate parentheses
+- [ ] N-Queens
+- [ ] Sudoku solver
+- [ ] Rat in a maze
+- [ ] Word search
+- [ ] M-coloring problem
+- [ ] Subset sum
+- [ ] Unique permutations
+- [ ] Pruning techniques
+- [ ] Constraint-based search
+
+PHASE 5 — Linked lists
+- [ ] Singly linked list
+- [ ] Doubly linked list
+- [ ] Circular linked list
+- [ ] Insertion
+- [ ] Deletion
+- [ ] Traversal
+- [ ] Reversal of linked list
+- [ ] Middle of linked list
+- [ ] Fast and slow pointers
+- [ ] Cycle detection (Floyd's algorithm)
+- [ ] Starting point of cycle
+- [ ] Remove cycle
+- [ ] Merge two sorted lists
+- [ ] Remove Nth node from end
+- [ ] Palindrome linked list
+- [ ] Intersection of linked lists
+- [ ] Add two numbers
+- [ ] Reverse nodes in K-group
+- [ ] Sort linked list
+- [ ] Flatten linked list
+- [ ] Copy list with random pointer
+- [ ] LRU cache implementation
+
+
+
+PHASE 6 — Stacks, queues and monotonic structures
+6.1 Stacks
+- [ ] Stack implementation
+- [ ] Stack using arrays
+- [ ] Stack using linked lists
+- [ ] Balanced parentheses
+- [ ] Next greater element
+- [ ] Next smaller element
+- [ ] Previous greater element
+- [ ] Previous smaller element
+- [ ] Stock span problem
+- [ ] Largest rectangle in histogram
+- [ ] Maximal rectangle
+- [ ] Remove K digits
+- [ ] Decode string
+- [ ] Min stack
+- [ ] Expression evaluation
+- [ ] Infix, postfix and prefix expressions
+6.2 Queues and deques
+- [ ] Queue implementation
+- [ ] Circular queue
+- [ ] Deque
+- [ ] Queue using stacks
+- [ ] Stack using queues
+- [ ] Priority queue
+- [ ] First negative number in every window
+- [ ] Sliding window maximum
+- [ ] Rotten oranges
+- [ ] BFS applications
+6.3 Monotonic structures
+- [ ] Monotonic increasing stack
+- [ ] Monotonic decreasing stack
+- [ ] Monotonic queue
+- [ ] Next greater element patterns
+- [ ] Daily temperatures
+- [ ] Largest rectangle in histogram
+- [ ] Sum of subarray minimums
+- [ ] Sum of subarray ranges
+- [ ] Contribution technique
+
+
+
+PHASE 7 — Trees and binary search trees
+Extremely important for interviews
+7.1 Binary trees
+- [ ] Tree terminology
+- [ ] Root, parent, child, leaf
+- [ ] Height and depth
+- [ ] Binary tree representation
+- [ ] Recursive traversal
+- [ ] Preorder traversal
+- [ ] Inorder traversal
+- [ ] Postorder traversal
+- [ ] Level order traversal
+- [ ] Iterative traversals
+- [ ] Height of binary tree
+- [ ] Diameter of binary tree
+- [ ] Balanced binary tree
+- [ ] Maximum path sum
+- [ ] Lowest common ancestor
+- [ ] Boundary traversal
+- [ ] Zigzag traversal
+- [ ] Vertical order traversal
+- [ ] Top view and bottom view
+- [ ] Left view and right view
+- [ ] Root-to-leaf paths
+- [ ] Path sum problems
+- [ ] Serialize and deserialize binary tree
+- [ ] Construct tree from traversals
+- [ ] Maximum width of binary tree
+- [ ] Morris traversal
+- [ ] Binary tree flattening
+7.2 Binary search trees
+- [ ] BST properties
+- [ ] Search in BST
+- [ ] Insertion in BST
+- [ ] Deletion in BST
+- [ ] Minimum and maximum
+- [ ] Validate BST
+- [ ] Kth smallest element
+- [ ] Kth largest element
+- [ ] Predecessor and successor
+- [ ] Lowest common ancestor in BST
+- [ ] Construct BST
+- [ ] Recover corrupted BST
+- [ ] BST iterator
+- [ ] Convert sorted array to BST
+- [ ] Two-sum in BST
+7.3 Advanced trees
+- [ ] AVL trees
+- [ ] Red-black trees
+- [ ] B-trees and B+ trees
+- [ ] Segment trees
+- [ ] Lazy propagation
+- [ ] Fenwick tree / Binary Indexed Tree
+- [ ] Sparse tables
+- [ ] Euler tour technique
+- [ ] Binary lifting
+- [ ] Lowest common ancestor using binary lifting
+- [ ] Heavy-light decomposition
+- [ ] Centroid decomposition
+- [ ] Persistent segment trees
+
+PHASE 8 — Heaps and priority queues
+- [ ] Min heap
+- [ ] Max heap
+- [ ] Heap implementation
+- [ ] Heapify
+- [ ] Build heap
+- [ ] Heap sort
+- [ ] Kth largest element
+- [ ] Kth smallest element
+- [ ] Top K frequent elements
+- [ ] K closest points
+- [ ] Merge K sorted lists
+- [ ] Find median from data stream
+- [ ] Two heaps pattern
+- [ ] Running median
+- [ ] Scheduling with heaps
+- [ ] Greedy problems using priority queues
+
+
+
+PHASE 9 — Greedy algorithms and intervals
+9.1 Greedy
+- [ ] Greedy strategy
+- [ ] Greedy choice property
+- [ ] Optimal substructure
+- [ ] Activity selection
+- [ ] Fractional knapsack
+- [ ] Job sequencing
+- [ ] Minimum platforms
+- [ ] Jump Game
+- [ ] Gas Station
+- [ ] Candy distribution
+- [ ] Huffman coding
+- [ ] Minimum coins (when greedy is valid)
+- [ ] Scheduling problems
+- [ ] Greedy with sorting
+- [ ] Greedy with heaps
+- [ ] Exchange argument and correctness proofs
+9.2 Intervals
+- [ ] Interval representation
+- [ ] Merge intervals
+- [ ] Insert interval
+- [ ] Non-overlapping intervals
+- [ ] Meeting rooms
+- [ ] Minimum meeting rooms
+- [ ] Employee free time
+- [ ] Interval scheduling
+- [ ] Interval partitioning
+- [ ] Sweep line algorithms
+- [ ] Line sweep with events
+- [ ] Difference array applications
+
+
+
+PHASE 10 — Graph algorithms
+Critical for advanced interviews
+10.1 Graph fundamentals
+- [ ] Graph terminology
+- [ ] Directed and undirected graphs
+- [ ] Weighted and unweighted graphs
+- [ ] Cyclic and acyclic graphs
+- [ ] Connected components
+- [ ] Adjacency matrix
+- [ ] Adjacency list
+- [ ] Edge list
+- [ ] Graph representation
+- [ ] Degree of vertices
+10.2 Graph traversal
+- [ ] Breadth First Search (BFS)
+- [ ] Depth First Search (DFS)
+- [ ] Connected components
+- [ ] Cycle detection in undirected graphs
+- [ ] Cycle detection in directed graphs
+- [ ] Bipartite graph checking
+- [ ] Flood fill
+- [ ] Number of islands
+- [ ] Multi-source BFS
+- [ ] Shortest path in unweighted graphs
+10.3 Topological sorting
+- [ ] DAG
+- [ ] Kahn's algorithm
+- [ ] DFS-based topological sorting
+- [ ] Course Schedule
+- [ ] Course Schedule II
+- [ ] Alien Dictionary
+- [ ] Cycle detection in DAG
+- [ ] Dependency resolution
+10.4 Shortest path algorithms
+- [ ] BFS shortest path
+- [ ] Dijkstra's algorithm
+- [ ] Bellman-Ford algorithm
+- [ ] Floyd-Warshall algorithm
+- [ ] DAG shortest path
+- [ ] 0-1 BFS
+- [ ] Shortest path with constraints
+- [ ] Cheapest flights within K stops
+- [ ] Network delay time
+- [ ] Negative weight cycles
+10.5 Minimum spanning tree
+- [ ] Minimum spanning tree concept
+- [ ] Prim's algorithm
+- [ ] Kruskal's algorithm
+- [ ] Disjoint Set Union (DSU)
+- [ ] Union by rank
+- [ ] Union by size
+- [ ] Path compression
+- [ ] Applications of DSU
+10.6 Advanced graph algorithms
+- [ ] Strongly connected components
+- [ ] Kosaraju's algorithm
+- [ ] Tarjan's algorithm
+- [ ] Bridges in graphs
+- [ ] Articulation points
+- [ ] Eulerian paths
+- [ ] Eulerian circuits
+- [ ] Hamiltonian path basics
+- [ ] Bridges and biconnected components
+- [ ] Network flow
+- [ ] Ford-Fulkerson
+- [ ] Edmonds-Karp
+- [ ] Dinic's algorithm
+- [ ] Bipartite matching
+- [ ] Hopcroft-Karp
+- [ ] A* search
+- [ ] Maximum flow and minimum cut
+
+
+
+PHASE 11 — Dynamic programming (DP)
+One of the most important phases
+This is where many candidates struggle. You must become comfortable deriving state transitions rather than memorizing solutions.
+11.1 DP fundamentals
+- [ ] What is dynamic programming?
+- [ ] Overlapping subproblems
+- [ ] Optimal substructure
+- [ ] Recursion vs DP
+- [ ] Memoization
+- [ ] Tabulation
+- [ ] Space optimization
+- [ ] State definition
+- [ ] Transition function
+- [ ] Base cases
+- [ ] DP traversal order
+- [ ] State compression
+11.2 One-dimensional DP
+- [ ] Fibonacci
+- [ ] Climbing stairs
+- [ ] Frog jump
+- [ ] Maximum sum of non-adjacent elements
+- [ ] House Robber
+- [ ] House Robber II
+- [ ] Decode Ways
+- [ ] Maximum product subarray
+11.3 Two-dimensional DP
+- [ ] Grid unique paths
+- [ ] Unique paths with obstacles
+- [ ] Minimum path sum
+- [ ] Triangle minimum path
+- [ ] Falling path sum
+- [ ] Cherry Pickup
+- [ ] Dungeon Game
+11.4 Subsequences DP
+- [ ] Longest increasing subsequence
+- [ ] Longest common subsequence
+- [ ] Longest common substring
+- [ ] Longest palindromic subsequence
+- [ ] Shortest common supersequence
+- [ ] Longest bitonic subsequence
+- [ ] Maximum sum increasing subsequence
+- [ ] Number of longest increasing subsequences
+11.5 Knapsack DP
+- [ ] 0/1 Knapsack
+- [ ] Unbounded Knapsack
+- [ ] Subset Sum
+- [ ] Equal Sum Partition
+- [ ] Minimum subset difference
+- [ ] Count subsets with given sum
+- [ ] Target Sum
+- [ ] Coin Change
+- [ ] Coin Change II
+- [ ] Rod Cutting
+11.6 String DP
+- [ ] Edit Distance
+- [ ] Wildcard Matching
+- [ ] Regular Expression Matching
+- [ ] Distinct Subsequences
+- [ ] Palindrome partitioning
+- [ ] Minimum insertions/deletions
+- [ ] Interleaving String
+11.7 Advanced DP
+- [ ] DP on stocks
+- [ ] DP on intervals
+- [ ] Matrix chain multiplication
+- [ ] Burst Balloons
+- [ ] Partition DP
+- [ ] DP on trees
+- [ ] DP on graphs
+- [ ] DP with bitmasks
+- [ ] Digit DP
+- [ ] DP with probability
+- [ ] DP with monotonic queues
+- [ ] DP optimization using convex hull trick
+- [ ] Divide and conquer DP optimization
+- [ ] Knuth optimization
+- [ ] SOS DP
+- [ ] Rerooting DP
+
+PHASE 12 — Tries and advanced string algorithms
+12.1 Trie
+- [ ] Trie fundamentals
+- [ ] Trie insertion
+- [ ] Trie searching
+- [ ] Prefix searching
+- [ ] Delete from Trie
+- [ ] Word dictionary
+- [ ] Word search II
+- [ ] XOR Trie
+- [ ] Maximum XOR of two numbers
+- [ ] Binary Trie
+- [ ] Bitwise prefix queries
+12.2 String algorithms
+- [ ] String matching
+- [ ] Naive pattern matching
+- [ ] KMP algorithm
+- [ ] LPS array
+- [ ] Z algorithm
+- [ ] Rabin-Karp algorithm
+- [ ] Rolling hash
+- [ ] Polynomial hashing
+- [ ] Manacher's algorithm
+- [ ] Suffix arrays
+- [ ] Suffix automaton
+- [ ] Suffix tree fundamentals
+- [ ] Aho-Corasick algorithm
+- [ ] Longest repeated substring
+- [ ] String period and borders
+
+PHASE 13 — Advanced competitive programming topics
+This is the section that takes you beyond conventional interview preparation.
+13.1 Advanced data structures
+- [ ] Segment tree with lazy propagation
+- [ ] Persistent segment tree
+- [ ] Merge sort tree
+- [ ] Fenwick tree
+- [ ] 2D Fenwick tree
+- [ ] Sparse table
+- [ ] Disjoint sparse table
+- [ ] Ordered set
+- [ ] Policy-based data structures (GNU PBDS)
+- [ ] Treap
+- [ ] Implicit treap
+- [ ] Sqrt decomposition
+- [ ] Mo's algorithm
+- [ ] DSU on tree
+- [ ] Link-cut tree
+- [ ] Persistent data structures
+13.2 Advanced mathematical algorithms
+- [ ] Extended Euclidean algorithm
+- [ ] Chinese remainder theorem
+- [ ] Euler's totient function
+- [ ] Euler's theorem
+- [ ] Fermat's little theorem
+- [ ] Matrix exponentiation
+- [ ] Linear sieve
+- [ ] Fast Fourier Transform (FFT)
+- [ ] Number Theoretic Transform (NTT)
+- [ ] Gaussian elimination
+- [ ] Linear basis over XOR
+- [ ] Combinatorics with modular arithmetic
+13.3 Advanced graph and optimization
+- [ ] Heavy-light decomposition
+- [ ] Centroid decomposition
+- [ ] Tree diameter techniques
+- [ ] Rerooting
+- [ ] Minimum-cost maximum-flow
+- [ ] Min-cut
+- [ ] Matching algorithms
+- [ ] 2-SAT
+- [ ] Meet in the middle
+- [ ] A* and heuristic search
+- [ ] Shortest path optimizations
+13.4 Computational geometry
+- [ ] Points and vectors
+- [ ] Dot product
+- [ ] Cross product
+- [ ] Orientation of three points
+- [ ] Line intersection
+- [ ] Segment intersection
+- [ ] Convex hull
+- [ ] Graham scan
+- [ ] Monotonic chain
+- [ ] Closest pair of points
+- [ ] Sweep line geometry
+- [ ] Polygon area
+- [ ] Point inside polygon
+13.5 Game theory
+- [ ] Winning and losing states
+- [ ] Nim game
+- [ ] Sprague-Grundy theorem
+- [ ] Grundy numbers
+- [ ] XOR game problems
+- [ ] Combinatorial game theory
+
+2. The problem-solving skills you must master
+Knowing all the topics above is not enough. You must master these cross-topic techniques.
+- [ ] Brute force to optimized solution
+- [ ] Pattern recognition
+- [ ] Constraint analysis
+- [ ] Choosing the right data structure
+- [ ] Identifying monotonicity
+- [ ] Invariant-based reasoning
+- [ ] Greedy proof techniques
+- [ ] Recurrence derivation
+- [ ] State-space analysis
+- [ ] Graph modeling
+- [ ] Mathematical observation
+- [ ] Amortized analysis
+- [ ] Optimization under time constraints
+- [ ] Edge-case identification
+- [ ] Code debugging
+- [ ] Dry running
+- [ ] Correctness proofs
+- [ ] Writing clean, efficient code
+- [ ] Explaining your solution verbally
+The ultimate skill: Seeing a completely unfamiliar problem and figuring out which algorithmic idea can solve it.
+3. Which topics matter most for top PBC interviews?
+Not every advanced competitive programming topic has equal interview value.
+
+Here is how I would prioritize your preparation.
+Tier 1 — Interview must-master
+Highest priority
+Arrays, strings, hashing, two pointers, sliding window, prefix sums, binary search, sorting, recursion, backtracking, linked lists, stacks, queues, trees, BST, heaps, greedy, graphs, and fundamental DP.
+
+Target: Solve unseen Medium problems independently and explain your approach confidently.
+
+Tier 2 — Strong candidate
+Advanced interview preparation
+Monotonic stack, advanced binary search, interval problems, trie, DSU, topological sorting, shortest paths, MST, advanced DP, bit manipulation, segment trees, Fenwick trees, and KMP.
+
+Target: Solve unfamiliar Medium and selected Hard problems.
+
+Tier 3 — Competitive programming elite
+Guardian ambition
+Digit DP, bitmask DP, rerooting DP, heavy-light decomposition, centroid decomposition, advanced graph algorithms, network flow, suffix automaton, FFT, NTT, computational geometry, game theory, and advanced mathematical algorithms.
+
+Target: Solve difficult contest problems and develop algorithmic depth beyond standard interview preparation.

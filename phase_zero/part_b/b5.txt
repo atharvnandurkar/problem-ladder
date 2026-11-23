@@ -1,0 +1,29 @@
+B5. Structures, classes and basic OOP
+You don't need to become an OOP expert during Phase 0, but you should understand the fundamentals.
+
+Concepts
+- struct.
+- Class and object.
+- Data members.
+- Member functions.
+- Access modifiers.
+- Public and private.
+- Constructors.
+- Destructors.
+- Parameterized constructors.
+- Copy constructors.
+- this pointer.
+- Encapsulation.
+- Inheritance basics.
+- Polymorphism basics.
+- Operator overloading basics.
+Practice exercises
+1. Create a Student structure.
+2. Create a Student class.
+3. Create a BankAccount class.
+4. Implement a constructor and destructor.
+5. Implement a parameterized constructor.
+6. Demonstrate public vs private members.
+7. Create a simple inheritance example.
+8. Implement function overriding.
+9. Implement a simple class for a dynamic array.

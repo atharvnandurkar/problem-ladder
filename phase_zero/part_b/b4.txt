@@ -1,0 +1,28 @@
+B4. Dynamic memory allocation
+Concepts
+- Stack memory.
+- Heap memory.
+- Static allocation.
+- Dynamic allocation.
+- new.
+- delete.
+- new[].
+- delete[].
+- Memory leaks.
+- Dangling pointers.
+- Shallow copying.
+- Deep copying.
+- RAII introduction.
+- Smart pointers introduction.
+- unique_ptr.
+- shared_ptr.
+- weak_ptr.
+Practice exercises
+1. Dynamically allocate one integer.
+2. Dynamically allocate an array.
+3. Calculate the sum of a dynamically allocated array.
+4. Resize a dynamically allocated array.
+5. Implement a simple dynamic array.
+6. Demonstrate a memory leak and correct it.
+7. Compare raw pointers and unique_ptr.
+Important: In modern C++, prefer containers such as vector and smart pointers over manually managed memory wherever appropriate. You still need to understand manual allocation because it helps you understand how data structures work internally.

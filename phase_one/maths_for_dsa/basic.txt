@@ -1,0 +1,41 @@
+This is where you develop the mathematical intuition needed for Codeforces and advanced algorithmic problems.
+
+We will divide mathematics into six ladders.
+B1. Basic arithmetic and number manipulation
+Concepts:
+- Count digits.
+- Reverse a number.
+- Palindrome number.
+- Armstrong number.
+- Sum of digits.
+- Extract individual digits.
+- Divisibility rules.
+- Factors and multiples.
+- Prime factorization.
+- Divisor counting.
+- Perfect numbers.
+- Integer overflow.
+- Handling negative numbers.
+Problem ladder
+Easy
+#	Problem	Platform
+1	Count Digits	Striver
+2	Reverse Integer	LeetCode 7
+3	Palindrome Number	LeetCode 9
+4	Find Numbers with Even Number of Digits	LeetCode 1295
+5	Number of Steps to Reduce a Number to Zero	LeetCode 1342
+6	Add Digits	LeetCode 258
+
+Medium
+#	Problem	Platform
+7	Integer Replacement	LeetCode 397
+8	Happy Number	LeetCode 202
+9	Sum of Square Numbers	LeetCode 633
+10	Minimum Operations to Make a Uni-Value Grid	LeetCode 2033
+
+Hard
+#	Problem	Platform
+11	Super Pow	LeetCode 372
+12	Integer to English Words	LeetCode 273
+
+Mastery requirement: You should be able to manipulate numbers mathematically without converting everything into strings.

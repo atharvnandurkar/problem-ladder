@@ -1,0 +1,50 @@
+C2. Bitwise operators
+Master each operator independently:
+Operator	Meaning	Example
+&	AND	5 & 3 = 1
+\|	OR	5 \| 3 = 7
+^	XOR	5 ^ 3 = 6
+~	NOT	Inverts bits
+<<	Left shift	5 << 1 = 10
+>>	Right shift	5 >> 1 = 2
+
+Practice exercises:
+- [ ] Check whether a number is odd or even using bits.
+- [ ] Check whether the ith bit is set.
+- [ ] Set the ith bit.
+- [ ] Clear the ith bit.
+- [ ] Toggle the ith bit.
+- [ ] Extract the ith bit.
+- [ ] Count set bits.
+- [ ] Find the rightmost set bit.
+- [ ] Remove the rightmost set bit.
+- [ ] Check whether a number is a power of two.
+- [ ] Swap two numbers using XOR.
+- [ ] Find the XOR of a range.
+Problem ladder
+Easy
+#	Problem	Platform
+1	Check if the ith Bit is Set	Striver
+2	Check if a Number is Odd	Striver
+3	Power of Two	LeetCode 231
+4	Hamming Distance	LeetCode 461
+5	Counting Bits	LeetCode 338
+6	Single Number	LeetCode 136
+7	Missing Number	LeetCode 268
+
+Medium
+#	Problem	Platform
+8	Single Number II	LeetCode 137
+9	Single Number III	LeetCode 260
+10	Sum of Two Integers	LeetCode 371
+11	Bitwise AND of Numbers Range	LeetCode 201
+12	Gray Code	LeetCode 89
+13	XOR Queries of a Subarray	LeetCode 1310
+
+Hard
+#	Problem	Platform
+14	Maximum XOR of Two Numbers in an Array	LeetCode 421
+15	Maximum XOR With an Element From Array	LeetCode 1707
+16	Maximum Genetic Difference Query	LeetCode 1938
+
+The last three are advanced XOR Trie problems. Do them after learning tries.

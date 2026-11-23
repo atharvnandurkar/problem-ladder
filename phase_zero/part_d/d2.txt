@@ -1,0 +1,18 @@
+D2. Pair and tuple
+Concepts
+- pair<int,int>.
+- make_pair().
+- .first and .second.
+- Nested pairs.
+- tuple.
+- get().
+- Structured bindings.
+- Sorting pairs.
+- Custom pair comparators.
+Practice exercises
+1. Store student marks using pairs.
+2. Sort pairs by first element.
+3. Sort pairs by second element.
+4. Sort by first ascending and second descending.
+5. Store three values using tuples.
+6. Use a vector of pairs to represent graph edges.

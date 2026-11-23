@@ -1,0 +1,86 @@
+PART A — TIME AND SPACE COMPLEXITY
+
+This section is different from ordinary problem-solving.
+
+You must learn to look at code and predict its performance before running it.
+A1. Understanding algorithms and complexity
+Concepts to master:
+- What is an algorithm?
+- Time complexity vs execution time.
+- Space complexity.
+- Input size and constraints.
+- Best, average and worst cases.
+- Big O, Omega and Theta.
+- Auxiliary space vs total space.
+Practice ladder
+
+These are primarily code-analysis exercises, so don't waste time searching for artificial LeetCode problems for every definition.
+Level	Practice exercise
+Easy 1	Find the number of operations in a single loop
+Easy 2	Analyze two consecutive loops
+Easy 3	Analyze nested loops
+Easy 4	Analyze a loop with an increment of 2
+Easy 5	Analyze a loop that doubles its variable
+Medium 1	Find the complexity of a loop with i *= 3
+Medium 2	Analyze nested loops with different bounds
+Medium 3	Analyze loops with dependent bounds
+Medium 4	Compare two algorithms solving the same problem
+Hard 1	Derive the complexity of a recursive algorithm
+Hard 2	Analyze an algorithm with multiple nested loops and logarithmic operations
+
+Your checkpoint: Given 15–20 code snippets, you should correctly determine their time and auxiliary space complexities without executing them.
+A2. Complexity growth and constraint analysis
+Master these growth rates:
+Complexity	Example
+O(1)	Array index access
+O(log n)	Binary search
+O(n)	Array traversal
+O(n log n)	Merge sort
+O(n²)	Nested traversal
+O(n³)	Three nested loops
+O(2ⁿ)	Generating all subsets
+O(n!)	Generating all permutations
+
+Practice exercises:
+- [ ] Rank complexities from fastest to slowest.
+- [ ] Calculate operations for n = 10, 100, 1,000 and 100,000.
+- [ ] Given n, determine which complexity is feasible.
+- [ ] Estimate whether an O(n²) algorithm fits a constraint.
+- [ ] Compare O(n log n) and O(n²).
+- [ ] Identify when exponential algorithms become impractical.
+Checkpoint: You should be able to look at problem constraints and eliminate unsuitable approaches before coding.
+A3. Amortized analysis
+Learn:
+- Aggregate method.
+- Accounting method.
+- Potential method.
+- Dynamic array resizing.
+- Amortized complexity of vector insertion.
+- Why an operation that occasionally costs O(n) can have amortized O(1) cost.
+Practice implementing a dynamic array that doubles its capacity when full.
+A4. Nested loops and recurrence relations
+Practice ladder:
+Level	Exercise
+Easy	Single recursive call
+Easy	Recursion with n decreasing by 1
+Easy	Recursion with n divided by 2
+Medium	Two recursive calls
+Medium	Fibonacci recursion
+Medium	Divide-and-conquer recurrence
+Hard	Merge sort recurrence
+Hard	Quick sort average/worst-case recurrence
+Hard	Recurrences with multiple subproblems
+
+Learn these methods:
+- Substitution method.
+- Recursion tree method.
+- Master theorem.
+- Recurrence relation formulation.
+Your checkpoint: Derive and solve recurrences such as:
+T(n)=T(n-1)+O(1)
+T(n)=T(n/2)+O(1)
+T(n)=2T(n/2)+O(n)
+T(n)=2T(n/2)+O(1)
+T(n)=3T(n/2)+O(n)
+
+Do not memorize just the answers. Understand the derivation.

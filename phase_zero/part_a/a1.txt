@@ -1,0 +1,52 @@
+Before Phase 1, we need to make sure your C++ fundamentals are strong enough that programming syntax never becomes an obstacle when solving DSA problems.
+
+I'm going to treat you as someone who wants to become exceptionally good, not someone who just wants to pass basic coding questions.
+
+Our objective for Phase 0:
+
+By the end, you should be able to:
+- Write C++ programs independently.
+- Understand how memory, pointers, references and functions work.
+- Work comfortably with arrays, strings and recursion.
+- Use the C++ STL without constantly looking up syntax.
+- Read unfamiliar code and debug it.
+- Solve basic implementation problems without tutorials.
+One important distinction: Phase 0 is primarily about programming fluency. We won't artificially force every exercise onto LeetCode. We'll use Codeforces and Striver for implementation practice and independent exercises for language fundamentals.
+PART A — C++ FUNDAMENTALS
+A1. Variables, data types and operators
+Concepts to master
+- Variables and constants.
+- int, long long, float, double, char, bool.
+- Signed vs unsigned.
+- Type conversion and type casting.
+- Integer overflow.
+- Arithmetic operators.
+- Relational operators.
+- Logical operators.
+- Assignment operators.
+- Increment and decrement.
+- Operator precedence.
+- sizeof().
+- const keyword.
+Practice ladder
+Easy
+#	Exercise	Platform
+1	Print Hello World	Independent
+2	Add two numbers	Independent
+3	Swap two numbers	Independent
+4	Calculate area of a circle	Independent
+5	Celsius to Fahrenheit	Independent
+6	Find the largest of three numbers	Independent
+7	Check even or odd	Striver
+8	Check positive, negative or zero	Independent
+9	Calculate simple interest	Independent
+10	Find quotient and remainder	Independent
+
+Medium
+- Find the last digit of a number.
+- Check integer overflow scenarios.
+- Find the sum of digits.
+- Swap numbers without a third variable.
+- Convert between different data types.
+- Evaluate expressions using operator precedence.
+Mastery checkpoint: Write 10 small programs without copying code.

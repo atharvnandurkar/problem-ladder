@@ -1,0 +1,18 @@
+D8. Lambda functions and custom comparators
+Concepts
+- Lambda syntax.
+- Capturing variables.
+- Capture by value.
+- Capture by reference.
+- Custom sorting.
+- Sorting pairs.
+- Sorting structures.
+- Custom priority queue comparators.
+Practice exercises
+1. Sort an array in descending order using a lambda.
+2. Sort pairs by second element.
+3. Sort students by marks.
+4. Sort strings by length.
+5. Sort intervals by starting position.
+6. Create a custom min heap.
+7. Create a custom max heap based on a particular field.

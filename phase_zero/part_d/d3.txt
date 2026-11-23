@@ -1,0 +1,33 @@
+D3. Stack and queue
+Concepts
+- Stack.
+- LIFO.
+- push().
+- pop().
+- top().
+- empty().
+- Queue.
+- FIFO.
+- front().
+- back().
+- push().
+- pop().
+- Deque.
+- Circular queue concept.
+Practice ladder
+Easy
+#	Problem	Platform
+1	Valid Parentheses	LC 20
+2	Implement Queue using Stacks	LC 232
+3	Implement Stack using Queues	LC 225
+4	Baseball Game	LC 682
+5	Number of Recent Calls	LC 933
+6	Implement Stack using Array	Striver
+7	Implement Queue using Array	Striver
+
+Medium
+#	Problem	Platform
+8	Min Stack	LC 155
+9	Daily Temperatures	LC 739
+10	Evaluate Reverse Polish Notation	LC 150
+11	Design Circular Queue	LC 622

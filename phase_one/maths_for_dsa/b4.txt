@@ -1,0 +1,49 @@
+B4. Modular arithmetic and fast exponentiation
+This is extremely important for competitive programming.
+
+Concepts:
+- Modulo operator.
+- Modular addition.
+- Modular subtraction.
+- Modular multiplication.
+- Modular division.
+- Modular exponentiation.
+- Binary exponentiation.
+- Modular inverse.
+- Fermat's little theorem.
+- Euler's theorem.
+- Extended Euclidean algorithm.
+- Overflow-safe multiplication.
+- Modular power with large exponents.
+Understand these properties:
+(a+b)\bmod m
+
+(a\cdot b)\bmod m
+
+a^b\bmod m
+
+Problem ladder
+Easy
+#	Problem	Platform
+1	Pow(x, n)	LeetCode 50
+2	Super Pow — attempt basic cases	LeetCode 372
+3	Repeated Squaring / Binary Exponentiation	Independent implementation
+
+Medium
+#	Problem	Platform
+4	Count Good Numbers	LeetCode 1922
+5	Count Ways to Build Good Strings	LeetCode 2466
+6	Count Good Numbers with modular exponentiation	Independent implementation
+
+Hard / Advanced
+#	Problem	Platform
+7	Find the Nth Magical Number	LeetCode 878
+8	Super Pow	LeetCode 372
+9	Modular inverse and large exponent queries	Independent implementation
+
+CSES additions:
+- Exponentiation: https://cses.fi/problemset/task/1095/?utm_source=chatgpt.com
+- Exponentiation II: https://cses.fi/problemset/task/1712/?utm_source=chatgpt.com
+- Counting Divisors: https://cses.fi/problemset/task/1713/?utm_source=chatgpt.com
+
+These three are especially valuable.

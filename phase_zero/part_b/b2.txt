@@ -1,0 +1,41 @@
+B2. Strings
+Concepts
+- String declaration.
+- Character arrays vs string.
+- String indexing.
+- String traversal.
+- String length.
+- Concatenation.
+- Comparison.
+- Substrings.
+- String searching.
+- Character frequency.
+- ASCII values.
+- Case conversion.
+- getline().
+- String immutability concepts vs mutable C++ strings.
+- String functions.
+- Passing strings to functions.
+Practice ladder
+Easy
+#	Problem	Platform
+1	Reverse String	LeetCode 344
+2	Valid Palindrome	LeetCode 125
+3	Valid Anagram	LeetCode 242
+4	Find the Index of the First Occurrence	LeetCode 28
+5	Length of Last Word	LeetCode 58
+6	To Lower Case	LeetCode 709
+7	Jewels and Stones	LeetCode 771
+8	Check if Two Strings are Equivalent	LeetCode 1662
+9	First Unique Character in a String	LeetCode 387
+10	Ransom Note	LeetCode 383
+
+Medium
+#	Problem	Platform
+11	Longest Common Prefix	LeetCode 14
+12	Reverse Words in a String III	LeetCode 557
+13	Is Subsequence	LeetCode 392
+14	String Compression	LeetCode 443
+15	Valid Palindrome II	LeetCode 680
+
+Mastery checkpoint: You should be able to manipulate strings without converting them into character arrays unnecessarily.

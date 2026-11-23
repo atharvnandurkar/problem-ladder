@@ -1,0 +1,25 @@
+E2. CSES introductory ladder
+These problems are excellent for building implementation discipline.
+#	Problem	Level
+1	Weird Algorithm	Easy
+2	Missing Number	Easy
+3	Repetitions	Easy
+4	Increasing Array	Easy
+5	Permutations	Easy
+6	Number Spiral	Easy
+7	Two Knights	Easy
+8	Two Sets	Medium
+9	Bit Strings	Medium
+10	Trailing Zeros	Medium
+11	Coin Piles	Medium
+12	Palindrome Reorder	Medium
+13	Gray Code	Medium
+
+CSES Introductory ProblemsE3. Striver A2Z — Phase 0 sections
+Use these as your structured concept and exercise checklist:
+1. Learn the basics.
+2. Learn important sorting techniques.
+3. Learn basic array operations.
+4. Learn basic string operations.
+5. Learn basic recursion.
+

@@ -1,0 +1,25 @@
+PART E — ADDITIONAL IMPLEMENTATION PRACTICE
+These are the problems I want you to solve before considering Phase 0 complete.
+E1. Codeforces beginner ladder
+Start with 800-rated problems
+#	Problem	Rating
+1	Watermelon — 4A	800
+2	Team — 231A	800
+3	Way Too Long Words — 71A	800
+4	Next Round — 158A	800
+5	Domino Piling — 50A	800
+6	Bit++ — 282A	800
+7	Beautiful Matrix — 263A	800
+8	Helpful Maths — 339A	800
+9	Word Capitalization — 281A	800
+10	Petya and Strings — 112A	800
+11	Boy or Girl — 236A	800
+12	Stones on the Table — 266A	800
+13	String Task — 118A	1000
+14	Tram — 116A	800
+15	Young Physicist — 69A	1000
+
+Target: Solve 800-rated problems independently before regularly attempting 1000-rated problems.
+
+Practice more problems from the 800-rated collection:
+Codeforces 800-rated problem collection

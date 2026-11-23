@@ -1,0 +1,44 @@
+C3. XOR properties and applications
+This is one of the most important subtopics.
+
+Understand these identities:
+
+a\oplus a=0
+
+a\oplus 0=a
+
+a\oplus b=b\oplus a
+
+(a\oplus b)\oplus c=a\oplus(b\oplus c)
+
+Learn:
+- XOR cancellation.
+- Find the unique element.
+- Find two unique elements.
+- XOR of a range.
+- Prefix XOR.
+- XOR of subarrays.
+- XOR partitioning.
+- XOR basis (advanced).
+
+
+Problem ladder
+Easy
+- Single Number — LeetCode 136.
+- Missing Number — LeetCode 268.
+- Find the Difference — LeetCode 389.
+- Decode XORed Array — LeetCode 1720.
+
+
+Medium
+- Single Number III — LeetCode 260.
+- XOR Queries of a Subarray — LeetCode 1310.
+- Decode XORed Permutation — LeetCode 1734.
+- Find the Original Array of Prefix XOR — LeetCode 2433.
+- Neighboring Bitwise XOR — LeetCode 2683.
+
+
+Hard
+- Maximum XOR of Two Numbers — LeetCode 421.
+- Maximum XOR With an Element From Array — LeetCode 1707.
+- Triples with Bitwise AND Equal to Zero — LeetCode 982.

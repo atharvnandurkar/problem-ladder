@@ -1,0 +1,47 @@
+B5. Combinatorics, permutations and combinations
+Concepts:
+- Factorial.
+- Permutations.
+- Combinations.
+- Binomial coefficients.
+- Pascal's triangle.
+- nCr calculations.
+- nPr calculations.
+- Counting arrangements.
+- Counting subsets.
+- Stars and bars.
+- Modular combinations.
+- Precomputation of factorials and inverse factorials.
+- Basic probability.
+Important formula:
+\[
+{}^nC_r=\frac{n!}{r!(n-r)!}
+\]
+
+Problem ladder
+Easy
+#	Problem	Platform
+1	Pascal's Triangle	LeetCode 118
+2	Pascal's Triangle II	LeetCode 119
+3	Unique Paths	LeetCode 62
+4	Climbing Stairs	LeetCode 70
+
+Medium
+#	Problem	Platform
+5	Combinations	LeetCode 77
+6	Combination Sum	LeetCode 39
+7	Permutations	LeetCode 46
+8	Count Ways to Make Array With Product	LeetCode 1735
+
+Hard / Advanced
+#	Problem	Platform
+9	K-th Permutation Sequence	LeetCode 60
+10	Count All Valid Pickup and Delivery Options	LeetCode 1359
+11	Number of Music Playlists	LeetCode 920
+12	Distributing Repeating Integers	LeetCode 1655
+
+CSES additions:
+- Binomial Coefficients: https://cses.fi/problemset/task/1079/?utm_source=chatgpt.com
+- Creating Strings II: https://cses.fi/problemset/task/1715/?utm_source=chatgpt.com
+- Christmas Party: https://cses.fi/problemset/task/1716/?utm_source=chatgpt.com
+The CSES mathematics problems are particularly useful for understanding modular combinatorics.

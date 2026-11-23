@@ -1,0 +1,47 @@
+PART B — ARRAYS, STRINGS AND MEMORY
+B1. Arrays
+Concepts
+- Array declaration and initialization.
+- Indexing.
+- Traversal.
+- Updating elements.
+- Insertion and deletion.
+- Array length.
+- Static arrays.
+- Dynamic arrays.
+- One-dimensional arrays.
+- Two-dimensional arrays.
+- Multidimensional arrays.
+- Passing arrays to functions.
+- Array bounds.
+- Out-of-bounds errors.
+Practice ladder
+Easy
+#	Problem	Platform
+1	Find largest element in an array	Striver
+2	Find second-largest element	Striver
+3	Check if array is sorted	Striver
+4	Remove duplicates from sorted array	LeetCode 26
+5	Remove Element	LeetCode 27
+6	Reverse an array	Striver
+7	Move Zeroes	LeetCode 283
+8	Contains Duplicate	LeetCode 217
+9	Running Sum of 1D Array	LeetCode 1480
+10	Richest Customer Wealth	LeetCode 1672
+
+Medium
+#	Problem	Platform
+11	Rotate Array	LeetCode 189
+12	Plus One	LeetCode 66
+13	Merge Sorted Array	LeetCode 88
+14	Find Pivot Index	LeetCode 724
+15	Third Maximum Number	LeetCode 414
+
+Additional implementation exercises:
+- Find frequency of every element.
+- Find missing element in a sequence.
+- Find duplicate elements.
+- Left rotate an array by one position.
+- Left rotate an array by K positions.
+- Merge two arrays.
+- Find the intersection of two arrays.

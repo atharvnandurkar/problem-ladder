@@ -1,0 +1,11 @@
+D2. Intermediate mathematical reasoning
+After D1
+#	Problem	Codeforces ID
+1	Odd Set	1542A
+2	Two Elevators	1729A
+3	Make it Increasing	1675A
+4	Array Coloring	1857A
+5	LCM Problem	1389A
+6	Omkar and Last Class of Math	1372A
+7	Divan and a New Project	1614A
+8	GCD vs LCM	1370A

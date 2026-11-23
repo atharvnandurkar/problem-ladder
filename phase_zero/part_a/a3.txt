@@ -1,0 +1,33 @@
+A3. Functions
+Concepts
+- Function declaration.
+- Function definition.
+- Function calling.
+- Parameters and arguments.
+- Return types.
+- Void functions.
+- Pass by value.
+- Pass by reference.
+- Default arguments.
+- Function overloading.
+- Inline functions.
+- Scope of variables.
+- Local and global variables.
+- Static local variables.
+- Recursion introduction.
+Practice ladder
+Easy
+1. Create a function to find maximum of two numbers.
+2. Create a function to check prime numbers.
+3. Create a function to calculate factorial.
+4. Create a function to reverse an integer.
+5. Create a function to calculate GCD.
+6. Create a function to calculate power.
+7. Create a function to swap two variables using references.
+Medium
+8. Implement function overloading for arithmetic operations.
+9. Implement a calculator using separate functions.
+10. Implement array operations using functions.
+11. Demonstrate pass by value vs pass by reference.
+12. Create a function returning multiple results using pairs.
+Mastery checkpoint: You should know when to use references and why unnecessary copying can be expensive.

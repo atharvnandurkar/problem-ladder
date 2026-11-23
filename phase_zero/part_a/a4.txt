@@ -1,0 +1,21 @@
+A4. Patterns and nested loops
+These exercises develop loop control and prepare you for understanding multidimensional arrays.
+Easy
+- [ ] Square star pattern.
+- [ ] Right-angled triangle.
+- [ ] Inverted right-angled triangle.
+- [ ] Number triangle.
+- [ ] Repeated number triangle.
+- [ ] Increasing number pattern.
+- [ ] Decreasing number pattern.
+- [ ] Alphabet triangle.
+Medium
+- [ ] Pyramid pattern.
+- [ ] Inverted pyramid.
+- [ ] Diamond pattern.
+- [ ] Hollow square.
+- [ ] Hollow pyramid.
+- [ ] Butterfly pattern.
+- [ ] Floyd's triangle.
+- [ ] Pascal's triangle.
+Mastery checkpoint: Understand the relationship between row number, column number and printed output. Don't memorize pattern code.

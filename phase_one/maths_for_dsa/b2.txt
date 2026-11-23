@@ -1,0 +1,43 @@
+B2. GCD, LCM and divisibility
+Concepts:
+- Greatest Common Divisor.
+- Lowest Common Multiple.
+- Euclidean algorithm.
+- Extended Euclidean algorithm.
+- Coprime numbers.
+- Prime factorization.
+- Divisibility properties.
+- GCD of multiple numbers.
+- GCD and LCM relationships.
+Important formula:
+\[
+LCM(a,b)=\frac{|a\cdot b|}{GCD(a,b)}
+\]
+
+Implement GCD yourself before using std::gcd.
+
+Problem ladder
+Easy
+#	Problem	Platform
+1	GCD of Two Numbers	Striver
+2	Greatest Common Divisor of Strings	LeetCode 1071
+3	Find Greatest Common Divisor of Array	LeetCode 1979
+4	Check for Prime Number	Striver
+
+Medium
+#	Problem	Platform
+5	Find the Number of Good Pairs I	LeetCode 3162
+6	X of a Kind in a Deck of Cards	LeetCode 914
+7	Count Different Palindromic Subsequences	LeetCode 730 — optional advanced extension
+
+Hard / Advanced
+#	Problem	Platform
+8	Minimum Number of Operations to Make Array Continuous	LeetCode 2009 — optional GCD-related broader challenge
+9	GCD on a Circle	Codeforces 1493D
+
+The last problem is an advanced contest problem, not a pure GCD exercise. Save it until you know segment trees and ordered structures.
+
+CSES extension:
+- Sum of Divisors: https://cses.fi/problemset/task/1082/?utm_source=chatgpt.com
+- Divisor Analysis: https://cses.fi/problemset/task/2182/?utm_source=chatgpt.com
+

@@ -1,0 +1,32 @@
+D7. Iterators and STL algorithms
+Concepts
+- Iterators.
+- begin() and end().
+- rbegin() and rend().
+- sort().
+- stable_sort().
+- reverse().
+- find().
+- count().
+- accumulate().
+- min_element().
+- max_element().
+- binary_search().
+- lower_bound().
+- upper_bound().
+- next_permutation().
+- prev_permutation().
+- unique().
+- remove().
+- iota().
+Practice exercises
+1. Sort an array using STL.
+2. Sort an array in descending order.
+3. Find minimum and maximum.
+4. Find an element using binary_search().
+5. Find the first occurrence using lower_bound().
+6. Find the next greater element using upper_bound().
+7. Remove duplicates from a sorted vector using unique().
+8. Generate all permutations using next_permutation().
+9. Calculate array sum using accumulate().
+10. Initialize a vector using iota().
